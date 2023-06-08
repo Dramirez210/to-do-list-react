@@ -9,6 +9,7 @@ function App() {
         <img 
           src={logo}
           className='logo' 
+          alt="Logo"
         />
       </div>
       <div className='to-do-list'>
